@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Biscuit", "species": "Dog", "age": 3, "adopted": false },
+  { "id": 2, "name": "Pickles", "species": "Cat", "age": 5, "adopted": true },
+  { "id": 3, "name": "Waffles", "species": "Rabbit", "age": 1, "adopted": false },
+  { "id": 4, "name": "Noodle", "species": "Dog", "age": 2, "adopted": false },
+  { "id": 5, "name": "Mochi", "species": "Cat", "age": 7, "adopted": false },
+  { "id": 6, "name": "Pepper", "species": "Guinea pig", "age": 2, "adopted": true }
+]
